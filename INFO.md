@@ -1,2 +1,2 @@
-new text
-test
+git is awesome!
+new line
